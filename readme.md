@@ -37,6 +37,3 @@ To run this keylogger, you need to have the following:
 
 Contributions to this project are welcome. If you find any issues or want to add new features, feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to modify and distribute the code as per the terms of the license.
